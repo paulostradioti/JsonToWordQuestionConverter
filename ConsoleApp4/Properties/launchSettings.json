@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "No Parameter": {
+      "commandName": "Project"
+    },
+    "With Parameter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\paulo\\source\\repos\\be-cs-backend-c-sharp\\BE-CS-006 PROGRAMAÇÃO WEB I (ASP.NET MVC)\\Exercícios\""
+    }
+  }
+}
